@@ -22,6 +22,16 @@ Breast Cancer Wisconsin Dataset (Kaggle – UCI)
 Tabular dataset with diagnostic features.
 Used for validating ML results and consistency with literature.
 
+https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+made data set
+
+https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
+numeric data. set
+
+https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/code
+Sam data set
+
+
 
 Methodology
 
