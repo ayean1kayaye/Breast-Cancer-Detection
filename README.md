@@ -26,10 +26,10 @@ https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
 made data set
 
 https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_breast_cancer.html
-numeric data. set
+numeric data set
 
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/code
-Sam data set
+SVM data set
 
 
 
